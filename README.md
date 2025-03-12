@@ -16,4 +16,4 @@
 <br>
 
 ### 공부내용 정리 ✍🏻
-- [Velog](https://velog.io/@nadnerde/series/%ED%95%9C-%EC%9E%85-FE-%EC%B1%8C%EB%A6%B0%EC%A7%80)
+- [Velog](https://velog.io/@nadnerde/series/%ED%95%9C-%EC%9E%85-FE-%EC%B1%8C%EB%A6%B0%EC%A7%80-4%EA%B8%B0TypeScript)
