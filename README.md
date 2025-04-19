@@ -6,7 +6,7 @@
 <br>
 
 💻 이정환(Winterlood)님의 [한 입 크기로 잘라 먹는 타입스크립트(TypeScript)](https://www.inflearn.com/course/%ED%95%9C%EC%9E%85-%ED%81%AC%EA%B8%B0-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/dashboard) 강의를 공부하는 레포지토리입니다.
-- 공식 카페의 [한입 FE 챌린지 4기]()에 참여 중입니다.
+- 공식 카페의 [한입 FE 챌린지 4기]()에 참여했습니다.
 - [챌린지 진도표]()
 
 <br>
